@@ -1,0 +1,9 @@
+{
+  "name": "Rudo's Archives",
+  "short_name": "Rudo's Archives",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f4",
+  "theme_color": "#f7f7f4",
+  "lang": "ja"
+}
